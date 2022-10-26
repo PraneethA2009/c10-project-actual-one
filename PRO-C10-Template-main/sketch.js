@@ -38,6 +38,7 @@ function draw() {
     sea.x = sea.width;
     sea.x = sea.width/8;
     sea.y = height;
+    sea.y = height/2;
   }
 
  
